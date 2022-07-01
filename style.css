@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');s
+
+p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+ol {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+a{
+  font-family: 'Bebas Neue', cursive;
+  text-decoration: none;
+  font-size: 16px;  
+}
+
+h3 {
+        font-family: 'Permanent Marker', cursive;
+}
+
+thead td{
+                 background-color: aqua;
+                 color: darkblue;
+    font-family: 'Alegreya Sans SC', sans-serif;}
+            }
+        
+        tbody td{
+                 font-family: 'Alegreya Sans SC', sans-serif;
+                 color: peachpuff;
+                 background-color: darkblue;
+}
